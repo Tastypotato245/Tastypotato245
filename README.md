@@ -1,4 +1,3 @@
-### Hello World!
 ### I'm Tastypotato245
 
 <!--
