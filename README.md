@@ -1,13 +1,19 @@
 # 🦔 Hello World!! 🦔
  Hi, I'm Kyusung Lee.
 
-<br>
 
-## Tech Skill
 
 <br>
 
-## Soft Skill
+## 💻 Tech Skill
+
+
+
+<br>
+
+## 🏆 Awards
+
+
 
 <br>
 
@@ -18,6 +24,15 @@
   
 ![C](https://img.shields.io/badge/Chung--Ang%20Univ.-386FBA?style=flat-square&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white)
+
+
+<br>
+
+## 🍅 Activity
+### 🎮 School Club
+
+- CAU CIEN 15th President *2023. 03. ~ 2023. 11.*
+- CAU CIEN Member *2020. 03. ~ now*
 
 
 <br>
