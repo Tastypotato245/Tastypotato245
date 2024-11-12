@@ -13,3 +13,11 @@
 ### 🎓 Learn from
 ![C](https://img.shields.io/badge/Chung--Ang%20Univ.-000000?style=flat-square&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Tastypotato245"
+  width="600"
+  height="300"
+/>
+</a>
