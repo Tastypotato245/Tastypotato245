@@ -45,7 +45,7 @@
 ## 🎓 Education
 - **B.Eng.** in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang University *2020. 03. ~ 2025. 08*
   - GPA : All 4.12/4.5, Major 4.25/4.5
-- **Cadet** in [42Seoul](42seoul.kr) *2023. 10. 03 ~ now*
+- **Cadet** in [42Seoul](https://42seoul.kr) *2023. 10. 03 ~ now*
   
 ![C](https://img.shields.io/badge/Chung--Ang%20Univ.-386FBA?style=flat-square&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white)
