@@ -6,7 +6,12 @@
 <br>
 
 ## 💻 Tech Skill
-
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
+  <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Static Badge" src ="https://img.shields.io/badge/vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+</div>
 
 
 <br>
@@ -42,5 +47,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tastypotato245&layout=compact&theme=onedark)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tastypotato245)](https://solved.ac/tastypotato245)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tastypotato245&theme=dark)
 
 </div>
