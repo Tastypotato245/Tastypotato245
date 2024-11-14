@@ -38,14 +38,17 @@
 
 ## 🏆 Awards
 
-
+|Awards|Grade|Date|Note|
+|---|---|---|---|
+| [KAIST SPARCS AI STARTUP HACKATHON](https://www.newsis.com/view/NISX20240801_0002835278) | 대상(1위) | 2024.08.01. | . |
+| [제1회 중앙대학교 ChatGPT 프롬프트 경진대회](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=10&CONTENTS_NO=&SITE_NO=5&BOARD_SEQ=1&BOARD_CATEGORY_NO=&P_TAB_NO=&TAB_NO=&BBS_SEQ=7435) | 장려상 | 2023.06.28. | . |
 
 <br>
 
 ## 🎓 Education
-- **B.Eng.** in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang University *2020. 03. ~ 2025. 08*
+- **B.Eng.** in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang University *2020.03. ~ 2025.08.*
   - GPA : All 4.12/4.5, Major 4.25/4.5
-- **Cadet** in [42Seoul](https://42seoul.kr) *2023. 10. 03 ~ now*
+- **Cadet** in [42Seoul](https://42seoul.kr) *2023.10.03. ~ now*
   
 ![C](https://img.shields.io/badge/Chung--Ang%20Univ.-386FBA?style=flat-square&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white)
