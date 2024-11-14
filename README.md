@@ -66,7 +66,7 @@
 <div align="center">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tastypotato245)](https://solved.ac/tastypotato245)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tastypotato245&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tastypotato245&theme=white)
 
 </div>
 
