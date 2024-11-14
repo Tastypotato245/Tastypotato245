@@ -40,7 +40,7 @@
 
 |Awards|Grade|Date|Note|
 |---|---|---|---|
-| [KAIST SPARCS AI STARTUP HACKATHON](https://www.newsis.com/view/NISX20240801_0002835278) | 대상(1위) | 2024.08.01. | . |
+| [24 KAIST SPARCS AI STARTUP HACKATHON](https://www.newsis.com/view/NISX20240801_0002835278) | 대상(1위) | 2024.08.01. | . |
 | [제1회 중앙대학교 ChatGPT 프롬프트 경진대회](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=10&CONTENTS_NO=&SITE_NO=5&BOARD_SEQ=1&BOARD_CATEGORY_NO=&P_TAB_NO=&TAB_NO=&BBS_SEQ=7435) | 장려상 | 2023.06.28. | . |
 
 <br>
