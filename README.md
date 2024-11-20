@@ -4,9 +4,6 @@
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTastypotato245&count_bg=%233D5BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
-
 ## 💻 Tech Skill
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
@@ -37,6 +34,10 @@
 </div>
 
 <br>
+
+- Interested in
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 
 ## 🏆 Awards
 
