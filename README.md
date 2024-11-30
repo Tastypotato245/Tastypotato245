@@ -43,7 +43,8 @@
 
 |Awards|Grade|Date|Note|
 |---|---|---|---|
-| TBA | TBA | 2024.12.04 | . |
+| TBA | 학장상 | 2024.12.04 | . |
+| 2024 국민대학교 & 중앙대학교 연합 프로그래밍 경진대회 | 3위 | 2024.11.30 | 팀 - 초보에요 |
 | [24 KAIST SPARCS AI STARTUP HACKATHON](https://www.newsis.com/view/NISX20240801_0002835278) | 대상(1위) | 2024.08.01. | 팀 - 민원99 |
 | [제1회 중앙대학교 ChatGPT 프롬프트 경진대회](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=10&CONTENTS_NO=&SITE_NO=5&BOARD_SEQ=1&BOARD_CATEGORY_NO=&P_TAB_NO=&TAB_NO=&BBS_SEQ=7435) | 장려상 | 2023.06.28. | . |
 
