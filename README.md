@@ -1,5 +1,5 @@
 # 🦔 Hello World!! 🦔
- Hi, I'm Kyusung Lee.
+ Hi, I'm Kyusung Lee. I want to be a developer who creates value.
 
 <br>
 
