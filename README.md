@@ -5,7 +5,7 @@
 
 ## 💼 Careers
 ### Internship
-**Web Editor Programmer** in **MIRI D.I.H** *2024.12.30. ~ .*
+- **Web Editor Programmer** in **MIRI D.I.H** *2024.12.30. ~ .*
 
 
 <br>
