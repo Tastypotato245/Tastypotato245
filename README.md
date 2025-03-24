@@ -6,7 +6,9 @@
 ## 💼 Careers
 ### Internship
 - **Frontend Engineer** in **MIRI D.I.H** *2024.12.30. ~ 2025.06.30.*
-
+  
+### full-time
+- TBA
 
 <br>
 
