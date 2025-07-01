@@ -76,7 +76,7 @@
 ### 🎮 School Club
 
 - CAU [CIEN](https://con.cien.or.kr/) 15th President *2023. 03. ~ 2023. 11.*
-- CAU [CIEN](https://con.cien.or.kr/) Member *2020. 03. ~ now*
+- CAU [CIEN](https://con.cien.or.kr/) Member *2020. 03. ~ 2025. 08.*
 
 
 <br>
