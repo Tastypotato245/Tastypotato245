@@ -4,11 +4,14 @@
 <br>
 
 ## 💼 Careers
+
+### full-time
+- **Frontend Engineer** in [**MIRI D.I.H**](https://www.miridih.com/ko/home1) *2025.07.01. ~ now*
+
+
 ### Internship
 - **Frontend Engineer** in [**MIRI D.I.H**](https://www.miridih.com/ko/home1) *2024.12.30. ~ 2025.06.30.*
   
-### full-time
-- **Frontend Engineer** in [**MIRI D.I.H**](https://www.miridih.com/ko/home1) *2025.07.01. ~ now*
 
 <br>
 
