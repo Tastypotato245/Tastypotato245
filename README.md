@@ -8,7 +8,9 @@
 ## 💼 Careers
 
 ### full-time
-- **Frontend Engineer** in [**MIRI D.I.H**](https://www.miridih.com/ko/home1) *2025.07.01. ~ now*
+- **Game Client Engineer** in [**NC SOFT**](https://www.nc.com/) *2026.01.05. ~ now*
+
+- **Frontend Engineer** in [**MIRI D.I.H**](https://www.miridih.com/ko/home1) *2025.07.01. ~ 2025.12.31*
 
 
 ### Internship
@@ -95,8 +97,6 @@
 </div>
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tastypotato245&layout=compact&theme=onedark)
 
 </div>
 
