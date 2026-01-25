@@ -8,7 +8,7 @@
 ## 💼 Careers
 
 ### full-time
-- **Game Client Engineer** in [**NC SOFT**](https://www.nc.com/) *2026.01.05. ~ now*
+- **Game Client Engineer** in [**NC**](https://www.nc.com/) *2026.01.05. ~ now*
 
 - **Frontend Engineer** in [**MIRI D.I.H**](https://www.miridih.com/ko/home1) *2025.07.01. ~ 2025.12.31*
 
