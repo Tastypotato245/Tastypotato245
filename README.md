@@ -20,7 +20,7 @@
 
 <br>
 
-## 💻 Tech Skill
+## 💻 Tech Skills
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
@@ -80,7 +80,7 @@
 
 <br>
 
-## 🍅 Activity
+## 🍅 Activities
 ### 🎮 School Club
 
 - CAU [CIEN](https://con.cien.or.kr/) 15th President *2023. 03. ~ 2023. 11.*
