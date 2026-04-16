@@ -3,9 +3,6 @@
 
 <br>
 
-26.03.09 폐관수련 시작
-
-
 ## 💼 Careers
 
 ### full-time
