@@ -89,8 +89,13 @@
 ## 🃏 Cards
 <div align="center">
 
+ <!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tastypotato245)](https://solved.ac/tastypotato245)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tastypotato245&theme=white)
+-->
+
+<img src="https://solvedac-readme-stats.vercel.app/api?handle=tastypotato245&v=1&streak=true"/>
+
 
 </div>
 
